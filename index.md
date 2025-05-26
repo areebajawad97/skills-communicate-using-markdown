@@ -10,3 +10,8 @@ first_num=1
 sec_num=2
 ans=first_num+sec_num
 ```
+
+# Adding list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
